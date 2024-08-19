@@ -150,7 +150,7 @@ Follow these steps to set up and run the project locally:
 4.  **Run the Application:**
 
     ```bash
-    node app.js
+    node index.js
     ```
 
 5.  **Open in Your Browser:**
