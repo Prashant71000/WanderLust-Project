@@ -74,8 +74,6 @@ Excited to share my journey of developing a feature-rich full-stack web applicat
 ### Social Authentication
 
 -   **Passport Local**: Local authentication strategy.
--   **Passport Facebook**: Facebook authentication strategy.
--   **Passport Google OAuth20**: Google OAuth2.0 authentication strategy.
 -   **Passport Local Mongoose**: Mongoose-specific authentication strategy.
     Authentication
 
