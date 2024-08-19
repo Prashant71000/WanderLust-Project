@@ -85,9 +85,6 @@ Excited to share my journey of developing a feature-rich full-stack web applicat
 -   **Account Management:** Update User Account and Password
 -   **User Data Security:** Password Hashing and Encryption
 -   **Interactive Maps:** Leveraging Mapbox for Location Visualization
--   **Login with Google:** Authenticate with your Google account for a seamless experience
--   **Login with Facebook:** Easily log in using your Facebook credentials
--   **Login with Email:** Traditional email login for user convenience
 
 ## How to Install
 
@@ -96,7 +93,7 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/ShanedraSingh/wanderlust.git
+    git clone https://github.com/Prashant71000/WanderLust-Project
     cd Airbnb_Project
     ```
 
@@ -114,34 +111,6 @@ Follow these steps to set up and run the project locally:
 
     ```bash
     #https://cloudinary.com/  (Cloudinary) (Change key)
-    CLOUD_NAME=kjkdmckdhjks
-    CLOUD_API_KEY=89340593499490394
-    CLOUD_API_SECRET=jdskLKJlklkdlsdfkKKdsdkkd
-
-    #https://www.mapbox.com/ (Mapbox)
-    MAP_TOKEN=pk.eyJ1IjoiZGVsdGEtc3R1ZHVlbnQiLCJhIjoiY2xvMDk0MTVhMTJ3ZDJrcGR5ZDFkaHl4ciJ9.Gj2VU1wvxc7rFVt5E4KLOQ
-
-    #https://www.mongodb.com/ (MongoDb Atlas) (Change key)
-    ATLASDB_URL=mongodb+srv://demo:kLKJFKOEMNDDOI9089dndd@cluster0.kkdnvkdkds.mongodb.net/?retryWrites=true&w=majority
-
-    #Add Random Secret Key
-    SECRET=ckcdenlksufoifafknddsoiddfkadsfafd
-
-    #https://console.developers.google.com/ (Google Developer Console) (Change key)
-    GOOGLE_CLIENT_ID=89038948394-kjfdkcmckdmckdfsid94jkkknd9sd4.apps.googleusercontent.com
-    GOOGLE_CLIENT_SECRET=KDJKDF-4KJDF894NF-DFKEF9MN-NFKEJD
-
-    #https://developers.facebook.com/ (Facebook Developer Console) (Change key)
-    FACEBOOK_APP_ID=94383859383287
-    FACEBOOK_APP_SECRET=89diodfjd9r98ddfjsodwj9df8d
-
-    #Add redirect URL in Google Developer Console
-    GOOGLE_CALLBACK_URL=http://localhost:8080/auth/google/callback
-
-    #Add redirect URL in Facebook Developer Console
-    FACEBOOK_CALLBACK_URL=http://localhost:8080/auth/facebook/callback
-
-    ```
 
     Replace the values with your specific configurations.
 
